@@ -1,0 +1,14 @@
+.contenedor{
+    width: 100%;
+    background-color: black;
+    height: 100%;
+}
+.p{
+    color: whitesmoke;
+}
+body{
+    background-image: url(https://www.teahub.io/photos/full/291-2915127_librerias-del-sur.jpg);
+}
+.fondoCuadro{
+    background-color: azure;
+}
